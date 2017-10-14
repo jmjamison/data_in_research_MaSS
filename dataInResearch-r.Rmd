@@ -1,5 +1,5 @@
 ---
-title: "Using Data in Research"
+title: "UCLA Library<br>Data Archive"
 author: "UCLA Library Data Archive"
 date: "Fall 2017"
 output:
@@ -14,37 +14,38 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Today's Topics
 
-* UCLA Library Data Archives 
-* The role of data in your research 
-* How to search for and acess data for research 
+* UCLA Library Data Archives: who we are and what we do
+* How to search for and access data for research 
 * Resources, tools and support available to students at UCLA 
 * Publishing and Data Management Plans
 
 
 
 ## UCLA Library Data Archives
-* Formerly _Social Science Data Archives_
-* On the UCLA campus since 1961 [About the Data Archive](https://www.library.ucla.edu/social-science-data-archive/about-data-archive)
-* Available to all UCLA faculty and students
-* Holdings include public opinion polls, census data, crime stats, political and social behavior, etc.  
-![illustration: Rolfe Hall](./images/dataArchive.jpg "Data Archive Library Website")
+###### 1120 Rolfe Hall
+![](./images/dataArchive.jpg "Data Archive Library Website")
 
-[https://www.library.ucla.edu/location/social-science-data-archive](https://www.library.ucla.edu/location/social-science-data-archive) 
+###### [https://www.library.ucla.edu/location/social-science-data-archive](https://www.library.ucla.edu/location/social-science-data-archive) 
+
 
 ## Data Archives: Our services
-* Reference: assist students to find and use data
-* Data Management Plans
-* Metadata
-* Provide training: [Software/Library carpentry](https://software-carpentry.org/) / [Software Carpentry R-language](https://www.library.ucla.edu/events/software-carpentry-workshop-r-version)   
-![illustration: Carpentry-logos](./images/carpentrys-logo.jpg "carpentry-logos")
-* Host events and lectures: [Data Archive News and Upcoming Events](https://www.library.ucla.edu/location/social-science-data-archive)
+
+###### [https://www.library.ucla.edu/location/social-science-data-archive/data-services](https://www.library.ucla.edu/location/social-science-data-archive/data-services)
+
+![](./images/DataOneDataLifeCycle.png "Data Life Cycle")
+
+*[illustration: DatOne Data Life Cycle](https://www.dataone.org/data-life-cycle)*
 
 
+
+
+
+--- 
 ## Role of Data in Research
 
 ![illustration: Role of Data in Research](./images/roleOfData.jpg "role of data in research")
 
-
+--- 
 
 ## Finding Out About Data Sources
 
