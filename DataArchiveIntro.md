@@ -60,7 +60,6 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
 ---
 
-
 ### Preserve
 * Help with backing up your Data
 * Help with deciding what data to preserve
@@ -78,6 +77,21 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
 
 ---
+
+## Data Archive: Additionally
+* Provide training: [Software/Library carpentry](https://software-carpentry.org/) / [Software Carpentry R-language](https://www.library.ucla.edu/events/software-carpentry-workshop-r-version)   
+![illustration: Carpentry-logos](./images/carpentrys-logo.jpg "carpentry-logos")
+
+* Host events and lectures: [Data Archive News and Upcoming Events](https://www.library.ucla.edu/location/social-science-data-archive)
+
+---
+
+## Role of Data in Research
+
+![illustration: role of data in resaerch](./images/roleOfData.jpg "role of data in research")
+
+---
+
 
 ## Finding Out About Data Sources
 
@@ -107,6 +121,7 @@ The Data Archive provides data services that are tied to the data life-cycle.
 * World Health Organization
 * International Monetary Fund
 
+---
 
 ## Search Strategies and Defining Your Research
 
