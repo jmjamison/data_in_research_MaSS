@@ -17,6 +17,7 @@ output:
 * Publishing and Data Management Plans
 
 
+
 ## UCLA Library Data Archives
 ##### 1120 Rolfe Hall
 ![](./images/dataArchive.jpg "Data Archive Library Website")
@@ -25,12 +26,14 @@ output:
 
 
 
-## Data Archives: Our Services
+
+
+## Data Archives: Our Services and the Data Life Cycle
 
 The Data Archive provides data services that are tied to the data life-cycle.
 
 
-###### *"Data archiving is a __process__, not an end state where data is simply turned over to a repository at the conclusion of a study. Rather, data archiving should begin early in a project and incorporate a schedule for depositing products over the course of a project's life cycle and for the creation and preservation of accurate metadata, ensuring the usability of the research data itself. Such practices would incorporate archiving as part of the research method." Preserving Research Data, Jacobs and Humphrey (2004)*
+###### *"Data archiving is a process, not an end state where data is simply turned over to a repository at the conclusion of a study. Rather, data archiving should begin early in a project and incorporate a schedule for depositing products over the course of a project’s life cycle and for the creation and preservation of accurate metadata, ensuring the usability of the research data itself. Such practices would incorporate archiving as part of the research method.”  Preserving Research Data, Jacobs and Humphrey (2004)*
 
 ![illustration: DatOne Data Life Cycle](./images/DataOneDataLifeCycle.png "Data Life Cycle")
 
@@ -40,19 +43,7 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
 ## Data Archives: Our Services and the Data Life Cycle
 ##### [https://www.library.ucla.edu/location/social-science-data-archive/data-services](https://www.library.ucla.edu/location/social-science-data-archive/data-services)
-<style>
-.column-left{
-  float: left;
-  width: 50%
-  text-align: left;
-}
-.column-right{
-  float: right;
-  width: 50%;
-  text-align: right;
-}
-</style>
-<div class="column-left">
+
 ### Plan
 * Review data sources
 * Help investigate archiving issues, costs, consent and disclosure risks
@@ -67,9 +58,9 @@ The Data Archive provides data services that are tied to the data life-cycle.
 * Assist with filenames, standard terminology and data dictionaries
 * Document analysis and file manipulations
 * Help identify appropriate standards
-</div>
 
-<div class="column-right">
+---
+
 ### Preserve
 * Help with backing up your Data
 * Help with deciding what data to preserve
@@ -84,7 +75,23 @@ The Data Archive provides data services that are tied to the data life-cycle.
 ### Analysis
 * Help identify appropriate sofware
 * Consultation on coding best practices
-</div>
+
+
+
+
+## Data Archive: Additionally
+* Provide training: [Software/Library carpentry](https://software-carpentry.org/) / [Software Carpentry R-language](https://www.library.ucla.edu/events/software-carpentry-workshop-r-version)   
+![illustration: Carpentry-logos](./images/carpentrys-logo.jpg "carpentry-logos")
+
+* Host events and lectures: [Data Archive News and Upcoming Events](https://www.library.ucla.edu/location/social-science-data-archive)
+
+
+
+## Role of Data in Research
+
+![illustration: role of data in resaerch](./images/roleOfData.jpg "role of data in research")
+
+
 
 
 ## Finding Out About Data Sources
@@ -98,6 +105,7 @@ The Data Archive provides data services that are tied to the data life-cycle.
 * Archives and project websites
 * Codebooks, questionnaires
 * Exploration of datasets
+
 
 
 ## Data Sources
@@ -115,6 +123,7 @@ The Data Archive provides data services that are tied to the data life-cycle.
 * International Monetary Fund
 
 
+
 ## Search Strategies and Defining Your Research
 
 * General to specific; broad to narrow
@@ -125,12 +134,14 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
 
 
+
 ## How do I know this study useful?
 
 * Raw data are __not__ eye-readable
 * To decipher data you will use __Questionnaires and Codebooks__
 
 ![illustration: Raw Data](./images/rawData.jpg "Raw Data sample")  
+
 
 
 ## What is a Questionnaire?  
@@ -148,9 +159,11 @@ The Data Archive provides data services that are tied to the data life-cycle.
     * An index (e.g. Social Economic Status)
 
 
+
 ## Questionnaire: ABC New Poll
 ![illustration: Questionnaire ABC New Poll](./images/codebook01.jpg "Questionnaire ABC New Poll")  
   
+
 ## What is a Codebook?
 
 * An overview of the study or dataset
@@ -165,26 +178,31 @@ The Data Archive provides data services that are tied to the data life-cycle.
   
 
 
+
 ## Codebook: General Social Survey
 ![illustration: codebook #2](./images/codebook02.jpg "CodebookExample")  
 
   
+
 
 ## Codebook and Raw Data
 ![illustration: Codebook and Raw Data](./images/rawdataCodebook.jpg "Codebook and Raw Data")  
 
   
 
+
 ## ICPSR Data Site  
 #### Inter-university Consortium for Political and Social Research [http://www.icpsr.umich.edu](http://www.icpsr.umich.edu)  
 ![illustration: ICPSR](./images/icpsr01.jpg "ICPSR")  
 
   
+
 ## ICPSR: Find Data
 [http://www.icpsr.umich.edu/icpsrweb/ICPSR](http://www.icpsr.umich.edu/icpsrweb/ICPSR)  
 ![illustration: ICPSR Find Data](./images/icpsr02.jpg "ICPSR Find Data")  
 
   
+
 
 ## ICPSR: Register to Access Data
 
@@ -192,11 +210,13 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
   
 
+
 ## ICPSR: Search by Topics
 
 ![illustration: ICPSR Search by Topics](./images/icpsr04.jpg "ICPSR Search by Topics")
 
   
+
 
 ## ICPSR: Search for and Compare Variables
 
@@ -204,11 +224,13 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
   
 
+
 ## ICPSR: Compare Variables
 
 ![illustration: ICPSR Compare Variables](./images/icpsr06.jpg "ICPSR Compare Variables")
 
   
+
 
 ## ICPSR: Study Page and Data
 
@@ -216,11 +238,13 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
   
 
+
 ## ICPSR: Reading About Data
 
 ![illustration: ICPSR Reading About Data](./images/icpsr08.jpg "ICPSR Reading About Data")
 
   
+
 
 ## ICPSR: Publications linked to Data
 
@@ -228,11 +252,13 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
   
 
+
 ## ICPSR: Publications Linked to Data
 
 ![illustration: ICPSR Publications Linked to Data](./images/icpsr10.jpg "ICPSR Publications linked to Data")
 
   
+
 
 
 # Data Management Plans
@@ -243,11 +269,13 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
   
 
+
 ## What is a Data Management Plan?
 
 A data management plan is a document that describes what you will do with your data _during_ your research and _after_ you complete your research.
 
   
+
 
 ## Why do you need this?
 
@@ -257,6 +285,7 @@ A data management plan is a document that describes what you will do with your d
 * Regardless of the requirements, good data management is an essential skill for researchers.
 
   
+
 
 ## Getting Help with Data Management Plans
 
@@ -268,6 +297,7 @@ A data management plan is a document that describes what you will do with your d
 ![illustration: Questions](./images/questions.jpg "Questions?")
 
   
+
 
 ## Problems ?
 
