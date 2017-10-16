@@ -274,10 +274,11 @@ The Data Archive provides data services that are tied to the data life-cycle.
 ---
 
 
-# Data Management Plans
+# Publishing and Data Management Plans
 
 * What is a Data Management Plans
 * Why do I need this?
+* What does this have to do with Publishing?
 * What tools are available to help?
 
   
@@ -286,6 +287,7 @@ The Data Archive provides data services that are tied to the data life-cycle.
 ## What is a Data Management Plan?
 
 A data management plan is a document that describes what you will do with your data _during_ your research and _after_ you complete your research.
+
 
   
 ---
@@ -297,13 +299,20 @@ A data management plan is a document that describes what you will do with your d
 * Sharing and Archiving Data
 * Regardless of the requirements, good data management is an essential skill for researchers.
 
-  
+Example Link:  UCLA DataDen
+
+---
+
+## Basic Elements of Data Management Plan
+
 ---
 
 ## Getting Help with Data Management Plans
 
 * Data Archive
 * ICPSR
+
+---
 
 ## Questions?  
 
