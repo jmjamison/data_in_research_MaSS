@@ -1,8 +1,10 @@
 <br><br><br><br><br>
 
-# UCLA Library<br>Data Archive
+# UCLA Library Data Archive
+.center[##### *Doing Data since 1961*]
 
-Fall Quarter 2017
+
+.footnote[Fall Quarter 2017]
 
   
 ---
@@ -17,8 +19,9 @@ Fall Quarter 2017
 
 ---
 
-## UCLA Library Data Archives
-##### 1120 Rolfe Hall
+## UCLA Library Data Archive
+#### (a.k.a. Social Science Data Archive)
+#### 1120 Rolfe Hall
 ![](./images/dataArchive.jpg "Data Archive Library Website")
 
 ##### [https://www.library.ucla.edu/location/social-science-data-archive](https://www.library.ucla.edu/location/social-science-data-archive) 
@@ -41,6 +44,7 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
 ---
 ## Data Archives: Our Services and the Data Life Cycle
+
 ##### [https://www.library.ucla.edu/location/social-science-data-archive/data-services](https://www.library.ucla.edu/location/social-science-data-archive/data-services)
 
 ### Plan
@@ -59,6 +63,7 @@ The Data Archive provides data services that are tied to the data life-cycle.
 * Help identify appropriate standards
 
 ---
+## Data Archives: Our Services and the Data Life Cycle
 
 ### Preserve
 * Help with backing up your Data
@@ -78,15 +83,24 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
 ---
 
-## Data Archive: Additionally
+## Data Archives: Our Services and Software
+
 * Provide training: [Software/Library carpentry](https://software-carpentry.org/) / [Software Carpentry R-language](https://www.library.ucla.edu/events/software-carpentry-workshop-r-version)   
 ![illustration: Carpentry-logos](./images/carpentrys-logo.jpg "carpentry-logos")
 
 * Host events and lectures: [Data Archive News and Upcoming Events](https://www.library.ucla.edu/location/social-science-data-archive)
 
+* Open Source Software 
+		- R-language	
+		- Python
+		- Markdown
+
+* Markdown References
+	- [Remarkjs.com](https://Remarkjs.com)
+
 ---
 
-## Role of Data in Research
+## Role of Data in Research: Data Reuse
 
 ![illustration: role of data in resaerch](./images/roleOfData.jpg "role of data in research")
 
