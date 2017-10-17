@@ -310,17 +310,17 @@ See also [ICPSR Elements of a Data Management Plan](http://www.icpsr.umich.edu/i
 
 ## Getting Help with Data Management Plans
 
+### ICPSR Resources for Data Management
+* [ICPSR Framework for Creating a Data Management Plan](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html) 
+* [Data Management and Curation](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/index.html) 
+* [ICPSR Guide to Archiving Social Science Data for Institutional Repositories, 5th edition](http://www.icpsr.umich.edu/files/datamanagement/guide-for-irs.pdf)
+ 
 * UCLA Data Archive 
 * [UCLA Library: Research Guides](http://guides.library.ucla.edu/srch.php?q=data+management)
 * [UKDA tools for creating and managing data (Pdf document)](http://www.data-archive.ac.uk/media/2894/managingsharing.pdf)  
 * [MANTRA – online learning tool/tutorial](http://datalib.edina.ac.uk/mantra/)  
 * [JISC Digital Media Advice](http://www.jiscdigitalmedia.ac.uk/advice/)  
 
-### ICPSR Resources for Data Management
-* [ICPSR Framework for Creating a Data Management Plan](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html)  
-* [Data Management and Curation](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/index.html)  
-* [ICPSR Guide to Archiving Social Science Data for Institutional Repositories, 5th edition](http://www.icpsr.umich.edu/files/datamanagement/guide-for-irs.pdf)
- 
  
 ---
 
