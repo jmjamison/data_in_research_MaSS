@@ -21,7 +21,7 @@ class: center, middle
 ---
 
 ## UCLA Library Data Archive
-#### (formally: Social Science Data Archive)
+#### Social Science Data Archive
 #### 1120 Rolfe Hall
 ![](./images/dataArchive.jpg "Data Archive Library Website")
 
@@ -91,7 +91,7 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
 * Host events and lectures: [Data Archive News and Upcoming Events](https://www.library.ucla.edu/location/social-science-data-archive)
 
-* Statistical Consulting: Refer to [UCLA Statisticsl Consulting Center](http://scc.stat.ucla.edu/)
+* Statistical Consulting: Refer to [UCLA Statistics Consulting Center](http://scc.stat.ucla.edu/)
 ---
 
 ## Role of Data in Research: Data Reuse
